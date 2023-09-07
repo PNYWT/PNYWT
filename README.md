@@ -1,7 +1,7 @@
 Hi 👋 My name is Pun
 ====================
 
-I'm Junior iOS Developer
+I'm Junior iOS Developer. This github will update about iOS application or Web application practice code from me. Thx.
 -------------
 
 ### Skills
