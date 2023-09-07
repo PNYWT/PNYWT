@@ -1,7 +1,7 @@
 Hi 👋 My name is Pun
 ====================
 
-I'm iOS Developer
+I'm Junior iOS Developer
 -------------
 
 ### Skills
